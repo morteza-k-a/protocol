@@ -1,0 +1,65 @@
+.mcard
+{
+    border: 1px solid #eee;
+border-radius: 1rem;
+box-shadow: 3px 3px 10px #ccc;
+}
+.btn1
+{
+    border: 1px dashed #eee;
+}
+.card1
+{
+    width: 100%;
+    padding: 0.5rem;
+    background-image: linear-gradient(to bottom left,#5efce8,#736efe);
+    margin-top: 1rem;
+}
+.card2
+{
+    width: 100%;
+    padding: 0.5rem;
+    background-image: linear-gradient(to bottom left,#fec163,#de4313);
+    margin-top: 1rem;
+}
+.card3
+{
+    margin-top: 1rem;
+    width: 100%;
+    padding: 0.5rem;
+    background-image: linear-gradient(to bottom left,#90f7ec,#32ccbc);
+}
+.card4
+{
+    margin-top: 1rem;
+    width: 100%;
+    padding: 0.5rem;
+    background-image: linear-gradient(to bottom left,#ce9ffc,#7367f0);
+}
+.card5
+{
+    margin-top: 1rem;
+    width: 100%;
+    padding: 0.5rem;
+    background-image: linear-gradient(to bottom left,#81fbb8,#28c76f);
+}
+html{
+    direction: rtl;
+    font-family: 'Vazir';
+}
+.title
+{
+    justify-content: center;
+    align-content: center;
+    font-weight: bold;
+    font-family: 'Vazir';
+}
+.description
+{
+    padding: 0.5rem;
+    padding-right: 1rem;
+    align-content: end;
+    display: flex;
+    font-family: 'Vazir';
+    padding-top: 1rem;
+}
