@@ -43,6 +43,13 @@ box-shadow: 3px 3px 10px #ccc;
     padding: 0.5rem;
     background-image: linear-gradient(to bottom left,#81fbb8,#28c76f);
 }
+.card6
+{
+    margin-top: 1rem;
+    width: 100%;
+    padding: 0.5rem;
+    background-image: linear-gradient(to bottom left,#f6ceec,#d939cd);
+}
 html{
     direction: rtl;
     font-family: 'Vazir';
